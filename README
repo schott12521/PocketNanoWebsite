@@ -1,3 +1,5 @@
 Website for Pocket Nano
 
-[Send with Pocket Nano]<pocketnano://send.pocketnano.me>
+<?
+<a href="pocketnano://send.pocketnano.me">[Send with Pocket Nano]</a>
+?>
