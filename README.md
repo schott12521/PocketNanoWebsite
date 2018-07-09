@@ -1,6 +1,6 @@
 Website for Pocket Nano
 
-<a href="pocketnano://send.pocketnano.me">[Send with Pocket Nano]</a>
+<a href="pocketnano://send.pocketnano.me">Send with Pocket Nano</a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
